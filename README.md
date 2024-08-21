@@ -130,3 +130,9 @@ Guides AI Behavior: Properly engineered prompts can help direct the AI's respons
 Reduces Miscommunication: Clear and well-structured prompts minimize the risk of misunderstandings between the user and the AI, ensuring that the generated responses are more relevant to the intended context.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt: "Tell me about the project.
+"Improved Prompt: "Can you provide a summary of the project's objectives, timeline, and key deliverables?"
+Why the improved prompt is more effective.
+Clarity: The improved prompt specifies what aspects of the project are of interest—objectives, timeline, and key deliverables. This removes ambiguity about what information is being sought.
+Specificity: By listing exact details (objectives, timeline, key deliverables), the prompt directs the AI to focus on those elements, making the response more relevant and useful.
+Conciseness: The improved prompt is direct and to the point, avoiding unnecessary vagueness and ensuring the AI's response is targeted and efficient.
